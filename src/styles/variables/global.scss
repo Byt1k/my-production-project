@@ -1,0 +1,11 @@
+:root {
+  --font-family: 'Consolas', Serif;
+
+  --font-size-lg: 16px;
+  --font-line-lg: 24px;
+  --font-lg: var(--font-size-lg) / var(--font-line-lg) var(--font-family);
+
+  --font-size-xl: 24px;
+  --font-line-xl: 32px;
+  --font-xl: var(--font-size-xl) / var(--font-line-xl) var(--font-family);
+}
